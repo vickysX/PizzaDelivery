@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Pizza Delivery</string>
+
+    <string name="menu_screen">Our Pizzas</string>
+    <string name="extras_screen">Extra Addons</string>
+    <string name="beverages_screen">Drink Something</string>
+
 </resources>

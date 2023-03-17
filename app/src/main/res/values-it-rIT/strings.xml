@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pizza Delivery</string>
+    <string name="menu_screen">Le nostre pizze</string>
+    <string name="extras_screen">Aggiungi un extra</string>
+    <string name="beverages_screen">Bevi qualcosa</string>
+</resources>
